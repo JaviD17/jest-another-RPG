@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG with 4 Objects (Players, Enemies, Potions, Game Logic)",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaviD17/jest-another-RPG.git"
+  },
+  "author": "Javier Dominguez II",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaviD17/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/JaviD17/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
